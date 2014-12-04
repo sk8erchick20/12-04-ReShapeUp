@@ -1,7 +1,9 @@
 // A program that deals with shape classes.
 
-public class ShapeUp {
-    public static void main(String[] args) {
+public class ShapeUp 
+{
+    public static void main(String[] args) 
+    {
         // create two Point objects
         Point p1 = new Point();
         p1.setX(2);
